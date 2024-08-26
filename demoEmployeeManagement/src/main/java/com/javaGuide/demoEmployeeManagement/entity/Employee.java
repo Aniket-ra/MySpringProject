@@ -8,8 +8,7 @@ import jakarta.persistence.*;
 
 @Getter
 @Setter
-@NoArgsConstructor
-@AllArgsConstructor
+
 @Entity
 @Table(name="employeesNew")
 
